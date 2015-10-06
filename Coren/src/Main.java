@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Enter an integer to calculate ");
         Scanner in = new Scanner(System.in);
 
+        //При значениях 1, 2, 3 соответственно - программа не выдает ошибки, но и не отрабатывает. В if нет обработки d<0
         a = in.nextInt();
         b = in.nextInt();
         c = in.nextInt();
@@ -29,6 +30,7 @@ public class Main {
         else
         {
             if (d > 0) {
+                //Точно ли any way?
                 System.out.println("There is any way to resolve");
             }
 

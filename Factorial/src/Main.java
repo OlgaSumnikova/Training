@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String args[]) {
            {
+               // Если считать факториал, например 50, то выведет что его факториал равен 0.
                 int n, c, fact = 1;
 
                 System.out.println("Enter an integer to calculate it's factorial");

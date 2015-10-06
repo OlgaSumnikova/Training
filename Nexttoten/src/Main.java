@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //а если n=m?
+
                 double n;
                 double m;
                 int a=10;
