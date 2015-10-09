@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //а если попробоват ьвсе 1 циклом реализовать?
         Random rand = new Random();
 
         int [] mas1 = new int [10];

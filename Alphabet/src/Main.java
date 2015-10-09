@@ -1,5 +1,7 @@
 class Main {
 
+    //все хорошо
+
     static String arr[] = {"f", "s", "a", "d", "g", "l",
 
             "o", "e", "t", "n", "m", "h",

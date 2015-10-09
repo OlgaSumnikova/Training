@@ -4,7 +4,7 @@ public class Main {
         int n = 0;
         int count = 0;
 
-
+    //все хорошо
         for (int i = 999999; i > 999; i--) {
             n = i;
 
